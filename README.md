@@ -1,5 +1,4 @@
 # Personal-homepage
-个人主页项目，租借阿里云ces服务器和PolarDB数据库
 阿里云ces服务器和PolarDB数据库使用教程
 https://shimo.im/docs/xbfKrZ5xzgM5tSzo/read
 个人主页展示地址
